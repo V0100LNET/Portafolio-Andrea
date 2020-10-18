@@ -14,3 +14,6 @@ Además contiene datos de contacto y ubicación.
 - Oswaldo Hernández
 
 
+
+![screenshot of gh pr status](https://github.com/V0100LNET/Portafolio-Andrea/blob/master/img/UI-portafolio.png)
+
